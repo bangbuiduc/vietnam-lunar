@@ -1,0 +1,14 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+    "Id": "net.bangbd.vnlunar",
+    "Name": "Lịch Âm Việt Nam",
+    "Description": "Đồng hồ và lịch tháng có âm lịch Việt Nam (UTC+7)",
+    "Icon": "view-calendar",
+    "Version": "1.0",
+    "Authors": [{ "Name": "bangbd" }],
+    "Category": "Date and Time",
+    "License": "GPL-2.0+"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
